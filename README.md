@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hoang Anh Quy</h1>
 
-<!--
-**QuyHoang-16/QuyHoang-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Quy%20Hoang&fontSize=40&fontColor=ffffff"/>
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎯 Software Engineering Student
+- 💻 Learning Web Development (.NET, JS)
+- 🌍 Vietnam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,sql" />
+</p>
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=QuyHoang-16&show_icons=true&theme=tokyonight"/>
+</p>
