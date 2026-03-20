@@ -14,7 +14,3 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,nodejs,sql" />
 </p>
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=QuyHoang-16&show_icons=true&theme=tokyonight"/>
-</p>
